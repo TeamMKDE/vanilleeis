@@ -1,2 +1,2 @@
-# vanilleeis
-A vanilla enhancing modpack.
+# Vanilleeis
+Ein Minecraft-Modpack, das Minecraft Vanilla Client-Side verbessert.
